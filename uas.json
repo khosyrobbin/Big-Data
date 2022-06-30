@@ -1,0 +1,22 @@
+
+{"name":"Bitcoin", "description":"1st generation", "code":"BTC", "marketcap":"383,629,943,176", "price":"20000"}
+{"name":"Ethereum", "description":"2st generation", "code":"ETH", "marketcap":"135,006,892,320", "price":"1110"}
+{"name":"Binance", "description":"3st generation", "code":"BNB", "marketcap":"35,677,864,722", "price":"218"}
+{"name":"Cardano", "description":"3st generation", "code":"ADA", "marketcap":"15,823,692,606", "price":"1"}
+{"name":"FTX token", "description":"3st generation", "code":"FTX", "marketcap":"3,408,284,930", "price":"25"}
+        {"name":"Solana", "description":"3st generation", "code":"SOL", "marketcap":"11,879,768,579", "price":"33"}
+        {"name":"Uniswap", "description":"3st generation", "code":"UNI", "marketcap":"3,677,071,886", "price":"9"}
+        {"name":"Dogecoin", "description":"1st generation", "code":"DOGE", "marketcap":"8,864,757,498", "price":"0.3"}
+        {"name":"Shiba", "description":"NFT token", "code":"SHIB", "marketcap":"5,378,294,121", "price":"0.003"}
+        {"name":"Polkadot", "description":"3st generation", "code":"DOT", "marketcap":"7,100,179,843", "price":"8.2"}
+        {"name":"Tron", "description":"3st generation", "code":"TRX", "marketcap":"6,032,490,382", "price":"0.1"}
+        {"name":"Polygon", "description":"3st generation", "code":"MATIC", "marketcap":"4,040,185,880", "price":"0.8"}
+        {"name":"Litecoin", "description":"3st generation", "code":"LTC", "marketcap":"3,723,150,437", "price":"11"}
+        {"name":"Algorand", "description":"3st generation", "code":"ALGO", "marketcap":"2,104,788,520", "price":"6"}
+        {"name":"Cosmos", "description":"3st generation", "code":"ATOM", "marketcap":"2,074,475,828", "price":"3"}
+        {"name":"Decentraland", "description":"NFT token", "code":"MANA", "marketcap":"1,628,041,640", "price":"1.2"}
+        {"name":"ApeCoin", "description":"NFT token", "code":"APE", "marketcap":"1,415,485,583", "price":"54"}
+        {"name":"Tezos", "description":"NFT token", "code":"XTZ", "marketcap":"1,352,667,846", "price":"23"}
+        {"name":"Sandbox", "description":"NFT token", "code":"SAND", "marketcap":"1,310,962,509", "price":"3.1"}
+        {"name":"Theta Network", "description":"3st generation", "code":"THETA", "marketcap":"1,239,786,774", "price":"1.24"}
+        {"name":"The Graph", "description":"3st generation", "code":"GRT", "marketcap":"694,563,816", "price":"0.1"}
